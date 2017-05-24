@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: iOS 프로그래밍을 위한 개방 도서관
+title: 미정의 iOS 개방 도서관
 email: ninevincentg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  안녕하세요, iOS 공부를 위한 개발 아닌 개방 도서관입니다. iOS와 관련된 여러 영어문서를 한국어로 번역하고 있습니다. 사서가 게을러서 자료가 부실할 수 있습니다. 
+  안녕하세요, iOS 공부를 위한 개발 아닌 개방 도서관입니다.  
+  iOS와 관련된 여러 영어문서를 한국어로 번역하고 있습니다.  
+  사서가 게을러서 자료가 부실할 수 있습니다. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://mijeongjeon.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username: mijeongjeon

@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+안녕하세요, iOS 하는 미정입니다.   
+iOS 공부를 하면서 알게된 것들을 간략하게 보관하려합니다.  
+그리 열심히 하진 않더라도 항상 재미나게 하려고 합니다.  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+고양이와 여행을 좋아합니다.  
+아침에 갓 내린 :coffee: 를 좋아해 가끔 아침일찍 일어나기도합니다.  
+그냥, 그렇습니다.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+가끔 놀러와주세요. 
+
+
+
