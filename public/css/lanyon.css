@@ -40,12 +40,14 @@ body {
   overflow-x: hidden;
 }
 
+/* 메인 폰트 */
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Raleway', sans-serif;
 }
 
+/* 제목 폰트 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-weight: 300;
   color: #313131;
   letter-spacing: -.025rem;
