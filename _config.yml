@@ -22,16 +22,7 @@ author:
 
 github:
   repo:              https://github.com/MijeongJeon
-  
-# Navigation (2nd level links supported)
-nav:
-  Home:
-    - '/'
-  Blog:
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
-    
+     
 # Custom vars
 version: 1.0.0
 
