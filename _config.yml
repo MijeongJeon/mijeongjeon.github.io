@@ -9,18 +9,30 @@ gems: [jekyll-paginate]
 # Setup
 title:               Monologue For Dialogue
 tagline:             'Mijeong'
-description:         'iOS 개발자 미정입니다. 개발에 관련된 이런저런 독백을 남기는 곳입니다. 관리자가 게을러서 내용이 부실할 수 있습니다. 🐝  <br> ninevincentg@gmail.com'
+description:         'iOS 개발자 미정입니다.<br> 개발에 관련된 이런저런 독백을 남기는 곳입니다. 가끔 놀러와주세요. 🐝  <br> ninevincentg@gmail.com'
 url:                 https://mijeongjeon.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:           미정(Mijeong Jeon)
+  name:          미정(Mijeong Jeon)
   url:               https://www.facebook.com/Ninevincent
   email:           ninevincentg@gmail.com
 
 github:
   repo:              https://github.com/MijeongJeon
+  
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/'
+  Blog:
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+    
 # Custom vars
-# version:             1.0.0
+version: 1.0.0
+
+# version:  1.0.0
