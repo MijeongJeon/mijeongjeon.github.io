@@ -1,11 +1,6 @@
 <div class="wrapper">
   <footer class="site-footer">
     <ul class="site-footer-links list-inline">
-      <li class="site-footer-link">
-        <a href="{{ '/feed.xml' | prepend: site.baseurl }}">
-          RSS
-        </a>
-      </li>
       {% if site.email%}
       <li class="site-footer-link">
         <a href="mailto:{{ site.email }}">
@@ -26,5 +21,3 @@
     </div>
   </footer>
 </div>
-
-<script src="/assets/main.js"></script>
