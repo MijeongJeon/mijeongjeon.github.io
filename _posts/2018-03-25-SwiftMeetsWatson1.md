@@ -19,7 +19,7 @@ CoreML이랑 Watson이 만났으니 네 앱을 한 층 더 똑똑하게 만들�
  
 새벽 5시에 날아온 메일은(나는 뭘하느라 깨어있었을까?) 잠이 들까말까하는 몽롱한 상태의 나를 깨우기에 충분히 매력적이었다. 간략히 나와있는 설명을 후다닥 읽고 *Learn more*를 클릭했다. 
 
-##[IBM Watson Services for CoreML](https://developer.apple.com/ibm/)
+## [IBM Watson Services for CoreML](https://developer.apple.com/ibm/)
 
 그들의 설명을 따르면 이러하다.
 
