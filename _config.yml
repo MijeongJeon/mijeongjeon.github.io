@@ -1,29 +1,31 @@
-# Permalinks
+# Welcome to Jekyll!
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: false
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-gems: [jekyll-paginate]
+# Site settings
+name: https://mijeongjeon.github.io
+title: 未定의 언젠가는 개발 블로그
+description: 아무것도 하지 않는 iOS 모바일 개발자의 기술 블로그입니다.
+url: https://mijeongjeon.github.io
+email: ninevincentg@gmail.com
+github_username: mijeongjeon
+facebook_username: ninevincent
 
-# Setup
-title:               Monologue For Dialogue
-tagline:             'Mijeong'
-description:         'iOS 개발자 미정입니다.<br> 개발에 관련된 이런저런 독백을 남기는 곳입니다. 가끔 놀러와주세요. 🐝  <br> ninevincentg@gmail.com'
-url:                 https://mijeongjeon.github.io
-baseurl:             ''
-paginate:            5
 
-# About/contact
-author:
-  name:          미정(Mijeong Jeon)
-  url:               https://www.facebook.com/Ninevincent
-  email:           ninevincentg@gmail.com
+# Handling Reading
+exclude: ['node_modules', 'vendor'] # Remove comment at local eevelopment mode
 
-github:
-  repo:              https://github.com/MijeongJeon
-     
-# Custom vars
-version: 1.0.0
+# markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
-# version:  1.0.0
+# Plugins
+gems:
+  - jekyll-paginate
+
+# Pagination
+paginate: 10
