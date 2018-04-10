@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 똑똑한 Watson, 재빠른 Swift와 만나다 파트 1. 만남
+title: 똑똑한 Watson, 재빠른 Swift와 만나다 파트 1
 tag: [IBM Watson, Swift, CoreML, AI, MachineLearning, DeepLearning]
 date:  2018-03-25 18:52:09 +0900  
 categories: jekyll update
