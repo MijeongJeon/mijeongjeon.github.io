@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 ## 내겐 너무 목성 같은, Jupyter Notebook
-![] (/assets/imgs/180808/image1.png)    
+![](/assets/imgs/180808/image1.png)    
 
 > 친근한 두 개의 단어, 주피터(목성-은 jupiter이지만-)와 노트북(notebook-공책)의 결합인 Jupyter notebook. 머신러닝을 할 때 매번 터미널에 입력하는 *jupyter notebook*라는 녀석을 매번 따라 적기만 하다가 문득 궁금해져서 찾아봤습니다(라는 fake, 일하기 싫어서 딴짓 중입니다).
 
