@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 내겐 너무 목성 같은, Jupyter Notebook
-tag: [Jupyter, notebook, iPhython, 개발]
+tag: [Jupyter, notebook, iPython, 개발]
 date:  2018-08-08 22:52:09 +0900  
 categories: jekyll update
 ---
